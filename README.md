@@ -28,7 +28,3 @@ pip install -r requirements.txt
 - Courses Recommendations
 - Skills Recommendations
 
-## Github Links - 
-[Devendra Singh Chauhan] https://github.com/davreign-dav
-[Anmol Garg] https://github.com/imAnmol
-[Vaidik Jhawar] https://github.com/davreign-dav
